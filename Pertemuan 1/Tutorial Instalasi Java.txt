@@ -1,0 +1,18 @@
+Tutorial Instalasi Java:
+Opsi 1 (Azul) (Versi Mudah)
+Link Download: https://www.azul.com/downloads/?package=jdk
+
+Dokumentasi:
+1. Windows: https://docs.azul.com/core/install/windows
+2. MacOS: https://docs.azul.com/core/install/macos
+
+Opsi 2 (Dari Oracle)
+Link Download: https://www.oracle.com/java/technologies/downloads/
+
+Instruksi:
+https://docs.oracle.com/en/java/javase/21/install/overview-jdk-installation.html
+
+Referensi:
+1. https://www.dewacoding.com/2020/05/cara-install-java-di-windows.html
+2. https://www.programmerzamannow.com/pemrograman/java/dasar/menginstall-java/
+
